@@ -20,7 +20,7 @@ procedure nullOworld is --| procedure-name does match filename (nulloworld.adb)
 --|
 --| names map(X): icase(procpack_Name) -> lowcase(filename)
 --|   so the map(X) is surjective // epimorph
---|   don't care about this...
+--|   don''t care about this...
 --|
 --| Hum... {{Art_of_unsaying things}}
 --|
